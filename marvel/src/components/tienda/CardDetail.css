@@ -1,0 +1,24 @@
+
+
+.nameCard{
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    font-size: 30px;
+    justify-content: center;
+}
+
+.priceCard{
+    font-weight: 500;
+    font-size: 28px;
+}
+
+.imgCard{
+    max-width: 220px;
+    max-height: 240px;
+}
+
+/* .detailCard{
+    
+   
+} */
